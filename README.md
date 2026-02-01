@@ -38,9 +38,11 @@ This project demonstrates how to manage tasks with persistent storage using file
 Make sure Python is installed on your system.
 
 ```bash
-python todo_app.py ```
+python todo_app.py
+```
 
 ## Sample Output
+```
 To-Do List Menu:
 1. View Tasks
 2. Add Task
@@ -49,3 +51,4 @@ To-Do List Menu:
 Choose an option (1-4): 2
 Enter the new task: Learn Python file handling
 Task added successfully.
+```
